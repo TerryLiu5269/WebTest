@@ -1,0 +1,73 @@
+.titleText{
+  color: gray;
+  font-size: 20px;
+  border: solid 2px gray;
+  width: 400px;
+  height: 250px;
+  background-color: #fcf8d7
+}
+
+.subtitle{
+  color: #f8b5ff;
+  letter-spacing: 1px;
+  font-size: 8px;
+}
+
+.prTest{
+  color: #a3a0a0;
+  font-size: 16px;
+}
+
+.dialogue{
+  float:right;
+  display: inline-block;
+  border: solid 1px gray;
+  margin-left: 170px;
+  margin-top: 0px;
+  padding: 5px;
+  border-radius: 15px 15px 0px 15px;
+  color: #7077ff;
+  background-color:#ffffff ;
+  font-family: 微軟正黑體;
+  position: absolute;
+}
+
+.pic{
+  float:right;
+  width: 160px;
+  margin-right: 20px;
+}
+
+.testtext{
+  display: inline-block;
+  border: solid 1px gray;
+  margin-top: 30px;
+  padding: 2px 7px;
+  /* padding-left: 5px;
+  padding-right: 5px; */
+  
+  color: white;
+  background-color: #35d4b7;
+  border-bottom: solid 5px #3af2d1;
+  font-family:  Arial;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.bigTitle{
+  font-size: 36px;
+  margin-left: 60px;
+  color: #4d4d4d;
+}
+
+.imgSrc{
+  background-image: url(https://lh3.googleusercontent.com/proxy/62mV84Hko8R4ZoDWYDaDVXnKZjLd5mXLG9soaF_kt6y0xk2pUwh_icutmIfGKVFM3MAdzOQ7fDaKcydlo7UcR0JOrIAeAeTGBlA);
+  height: 200px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 40px;
+}
+
+body{
+  background-color: rgb(226, 255, 253)
+}
